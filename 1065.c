@@ -21,5 +21,7 @@ int main(void)
         printf("%d", c);
     }
 
+    int d = 12 - 11 % 2 * 5 +  - 3;
+    printf("%d", d);
     return 0;
 }
