@@ -25,9 +25,9 @@ int main(void)
     case 8:
         printf("summer");
         break;
-
+        
     default:
-        printf("fall");
+        printf("what?");
         break;
     }
 
